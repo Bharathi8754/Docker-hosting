@@ -1,2 +1,4 @@
 com\demohosting\demohosting\DemohostingApplication.class
-com\demohosting\demohosting\UserController.class
+com\demohosting\demohosting\StudentController.class
+com\demohosting\demohosting\StudentEntity.class
+com\demohosting\demohosting\StudentRepository.class
